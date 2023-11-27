@@ -10,7 +10,6 @@ A simple password manager application with features for generating, saving, and 
 - [Dark Mode](#dark-mode)
 - [How It Works](#how-it-works)
 - [Screenshots](#screenshots)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -60,8 +59,3 @@ The password manager stores and retrieves data using a JSON file (`data.json`). 
 
 ### Dark Mode
 ![Dark Mode](screenshots/dark_mode.png)
-
-## Acknowledgements
-
-- Itai Markovetzky
-- Special thanks to [Angela Yu](https://www.appbrewery.co/) for inspiration and guidance.
